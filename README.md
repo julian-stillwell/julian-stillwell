@@ -6,7 +6,7 @@
 - I am learning
 
 ### Things I code with
-[![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,nextjs,vscode,python,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,nextjs,vscode,python,nodejs)](https://skillicons.dev)
 
 ## My Github Stats
 
